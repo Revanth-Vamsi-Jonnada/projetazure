@@ -9,7 +9,7 @@ The bike has a telescopic front fork and a gas-charged monoshock at the rear. Th
 
 The bike is available in three colours: Black, Red, and White. The bike has a price tag of Rs. 1.3 lakh (ex-showroom, Delhi).
 
-####This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+#### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project link** - 
